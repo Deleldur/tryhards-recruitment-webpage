@@ -1,7 +1,7 @@
 import React from 'react';
 
-function App() {
+function Homepage() {
   return null
 }
 
-export default App;
+export default Homepage;

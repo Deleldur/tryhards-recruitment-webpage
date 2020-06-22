@@ -9,3 +9,4 @@ A recruitment site for the classic world of warcraft guild Tryhards
 The dot at the end is to say install it in the folder we are in
 
 3: Feel free to move the text in here from README.old.md to the new README.md
+
